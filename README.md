@@ -1,4 +1,7 @@
-# Toki-Pona-Resources
+<p align="center">
+  <img align="center" src="http://tokipona.net/tp/img/Toki_pona.png" width="200">
+</p>
+
 Study materials and content for Toki Pona, a constructed minimalist language by Sonja Lang
 
 [Official Toki Pona Website by Sonja Lang](http://tokipona.org/)
