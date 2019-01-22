@@ -28,6 +28,13 @@ Study materials and content for Toki Pona, a constructed minimalist language by 
 
 * [Memrise course by solpahi](https://www.memrise.com/course/39856/toki-pona-complete/)
 
+#### Text-based Courses
+* []()
+
+* []()
+
+* []()
+
 #### Flashcard Decks
 
 * [Anki - Toki Pona complete](https://ankiweb.net/shared/info/1628413778)
@@ -90,7 +97,9 @@ There is definitely some overlap in these subsections. Only channels that had a 
 #### Misc
 * [ilo nanpa (Toki Pona Calculator, English CC)](https://www.youtube.com/watch?v=NgWCLg4H_4U)
 
+## Written Media
 
+* [jan Minasa's Tumblr page (memes)](https://jan-minasa.tumblr.com/)
 
 
 
