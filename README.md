@@ -29,11 +29,9 @@ Study materials and content for Toki Pona, a constructed minimalist language by 
 * [Memrise course by solpahi](https://www.memrise.com/course/39856/toki-pona-complete/)
 
 #### Text-based Courses
-* []()
+* [jan Pije - o kama sona e toki pona](http://tokipona.net/tp/janpije/learn.php)
 
-* []()
-
-* []()
+* [Course by jan Maraskuu, jan Pije, jan Lope](http://lolcathost.org/t/toki-pona-lessons.pdf)
 
 #### Flashcard Decks
 
@@ -45,6 +43,15 @@ Study materials and content for Toki Pona, a constructed minimalist language by 
 
 #### Dictionaries
 * [chuff's toki pona-english](https://docs.google.com/spreadsheets/d/12gDr-zsUuwwCWPme9DlAE0JWuFDAFrqh3_IA257ff1U/edit?usp=sharing)
+
+#### Writing Systems
+* [Official heiroglyphics syllabary](https://www.jonathangabel.com/archive/2012/learn_t47_lesson-2.html)
+
+* [Official heiroglyphics logography](http://tokipona.net/tp/janpije/hieroglyphs.php)
+
+* [Official sign language](http://tokipona.net/tp/janpije/signlanguage.php)
+
+* [Tengwar for toki pona](http://tokipona.net/tp/janpije/tengwar.php)
 
 ## Video Media
 There is definitely some overlap in these subsections. Only channels that had a majority of their content in Toki Pona were listed under the Youtube Channels subsection. Other videos not belonging to a channel in the Youtube Channels subsection were posted in a separate category.
@@ -98,6 +105,9 @@ There is definitely some overlap in these subsections. Only channels that had a 
 * [ilo nanpa (Toki Pona Calculator, English CC)](https://www.youtube.com/watch?v=NgWCLg4H_4U)
 
 ## Written Media
+* [Large corpus of toki pona on official site](http://tokipona.net/tp/CorpusReadability.aspx)
+
+* [jan Pije's collection of texts](http://tokipona.net/tp/janpije/texts.php)
 
 * [jan Minasa's Tumblr page (memes)](https://jan-minasa.tumblr.com/)
 
